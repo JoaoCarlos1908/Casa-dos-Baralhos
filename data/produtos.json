@@ -4,7 +4,7 @@
     "nome": "Bicycle Rider Standard",
     "categoria": "classicos",
     "descricao": "O clássico atemporal usado por mágicos e jogadores no mundo todo.",
-    "imagem": "images/BicycleRiderBack.png",
+    "imagem": "images/BicycleRiderBack.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/7AbrfCJaJK"
   },
@@ -13,7 +13,7 @@
     "nome": "Bee Jumbo Index",
     "categoria": "classicos",
     "descricao": "Resistência profissional inspirada nos grandes cassinos.",
-    "imagem": "images/Bee.png",
+    "imagem": "images/Bee.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/9pccqNFpkT"
   },
@@ -22,7 +22,7 @@
     "nome": "Tally-Ho Circle Back",
     "categoria": "classicos",
     "descricao": "Precisão, suavidade e acabamento premium para verdadeiros entusiastas.",
-    "imagem": "images/TallyHo.png",
+    "imagem": "images/TallyHo.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/1ihx8RH"
   },
@@ -31,7 +31,7 @@
     "nome": "Bicycle Hidden Cardistry",
     "categoria": "cardistry",
     "descricao": "Estilo contemporâneo para performances marcantes.",
-    "imagem": "images/BicycleHiddenCardistry.png",
+    "imagem": "images/BicycleHiddenCardistry.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/5fn6CXnUmU"
   },
@@ -40,7 +40,7 @@
     "nome": "Tetra Lotus In Hand",
     "categoria": "cardistry",
     "descricao": "Criado para transformar cada movimento em um espetáculo.",
-    "imagem": "images/TetraLotusInHand.png",
+    "imagem": "images/TetraLotusInHand.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/1dcJgHD"
   },
@@ -49,7 +49,7 @@
     "nome": "Orbit Black Hole",
     "categoria": "cardistry",
     "descricao": "Performance de alto nível com um visual fora de órbita.",
-    "imagem": "images/OrbitBlackHole.png",
+    "imagem": "images/OrbitBlackHole.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/21i2ZPX"
   },
@@ -58,7 +58,7 @@
     "nome": "Theory11 Artisan Black",
     "categoria": "luxo",
     "descricao": "Elegância artesanal em cada detalhe.",
-    "imagem": "images/Theory11ArtisanBlack.png",
+    "imagem": "images/Theory11ArtisanBlack.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/24fALaG"
   },
@@ -67,7 +67,7 @@
     "nome": "Theory11 Monarchs Azul",
     "categoria": "luxo",
     "descricao": "O ícone dos baralhos de luxo.",
-    "imagem": "images/Theory11MonarchsAzul.png",
+    "imagem": "images/Theory11MonarchsAzul.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/2xK7JDV"
   },
@@ -76,7 +76,7 @@
     "nome": "Bicycle Metalluxe",
     "categoria": "luxo",
     "descricao": "O clássico Bicycle com acabamento metálico.",
-    "imagem": "images/BicycleMetalluxe.png",
+    "imagem": "images/BicycleMetalluxe.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/16bZ5DY"
   },
@@ -85,7 +85,7 @@
     "nome": "Mcd Lamina De Alumínio",
     "categoria": "minimalista",
     "descricao": "Visual Sofisticado com Toque Metálico",
-    "imagem": "images/mcdaluminio.png",
+    "imagem": "images/mcdaluminio.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/2K76TMK"
   },
@@ -94,7 +94,7 @@
     "nome": "Jocker Cheng",
     "categoria": "minimalista",
     "descricao": "Baralho com design minimalista, acabamento premium e excelente qualidade.",
-    "imagem": "images/JockerCheng.png",
+    "imagem": "images/JockerCheng.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/1bevtb4"
   },
@@ -103,7 +103,7 @@
     "nome": "Baixa Visão",
     "categoria": "minimalista",
     "descricao": "Naipes ampliados e alta legibilidade.",
-    "imagem": "images/baixavisao.png",
+    "imagem": "images/baixavisao.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/12C1JTB"
   },
@@ -112,7 +112,7 @@
     "nome": "Tottal eCom Dólar",
     "categoria": "artisticos",
     "descricao": "O baralho que simboliza riqueza e poder.",
-    "imagem": "images/econdolar.png",
+    "imagem": "images/econdolar.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/1PzMb5Z"
   },
@@ -121,7 +121,7 @@
     "nome": "Bicycle Alice in Wonderland",
     "categoria": "artisticos",
     "descricao": "Edição temática com acabamento premium.",
-    "imagem": "images/bicycleAlice.png",
+    "imagem": "images/bicycleAlice.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/9KgPBgTRHc"
   },
@@ -130,7 +130,7 @@
     "nome": "Batman 85 Anos",
     "categoria": "artisticos",
     "descricao": "Uma edição especial que homenageia um legado lendário.",
-    "imagem": "images/batman85.jpg",
+    "imagem": "images/batman85.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/AKYwOFySRN"
   },
@@ -139,7 +139,7 @@
     "nome": "Red Dead Redemption 2",
     "categoria": "artisticos",
     "descricao": "Sinta o Espírito do Velho Oeste com este baralho.",
-    "imagem": "images/rdr2.png",
+    "imagem": "images/rdr2.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/3qLSj3elRV"
   },
@@ -148,7 +148,7 @@
     "nome": "Invisivel Bicycle Azul",
     "categoria": "magico",
     "descricao": "Transforme qualquer carta em um verdadeiro espetáculo de ilusionismo.",
-    "imagem": "images/invisivelBicycle.png",
+    "imagem": "images/invisivelBicycle.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/1M6QZqV"
   },
@@ -157,7 +157,7 @@
     "nome": "Force Especial",
     "categoria": "magico",
     "descricao": "Dois conjuntos de 26 cartas idênticas para efeitos de forçagem com máxima naturalidade.",
-    "imagem": "images/forceEspecial.png",
+    "imagem": "images/forceEspecial.webp",
     "marketplace": "Shopee",
     "link": "https://s.shopee.com.br/4LHjM1zFqQ"
   },
@@ -166,7 +166,7 @@
     "nome": "Baralho Marcado",
     "categoria": "magico",
     "descricao": "Marcação discreta para identificação rápida e precisa durante suas apresentações.",
-    "imagem": "images/marcado.png",
+    "imagem": "images/marcado.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/2iTbKMi"
   }
