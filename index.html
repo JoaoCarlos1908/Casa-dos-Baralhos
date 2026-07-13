@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Casa do Baralho — Catálogo Premium de Cartas Colecionáveis</title>
+
+<meta name="description" content="Catálogo premium de baralhos de cartas: clássicos, novidades, edições adultas e infantis. Compare e compre nos melhores marketplaces do Brasil.">
+<meta name="keywords" content="baralho, cartas, baralho de cartas, baralho colecionável, bicycle, copag, theory11, jogos de cartas, baralho +18, baralho infantil">
+<meta name="author" content="Casa do Baralho">
+<link rel="canonical" href="https://seu-usuario.github.io/casa-do-baralho/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Casa do Baralho — Catálogo Premium de Cartas Colecionáveis">
+<meta property="og:description" content="Encontre o baralho perfeito para sua coleção ou diversão. Os melhores baralhos reunidos em um único lugar.">
+<meta property="og:image" content="images/hero-cartas.svg">
+<meta property="og:locale" content="pt_BR">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Casa do Baralho — Catálogo Premium de Cartas Colecionáveis">
+<meta name="twitter:description" content="Os melhores baralhos reunidos em um único lugar.">
+<meta name="twitter:image" content="images/hero-cartas.svg">
+
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Casa do Baralho",
+  "description": "Catálogo premium de baralhos de cartas colecionáveis.",
+  "url": "https://seu-usuario.github.io/casa-do-baralho/"
+}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#catalogo">Pular para o catálogo</a>
+
+<header class="header" id="header">
+  <div class="header__inner">
+    <a href="#top" class="brand">
+      <span class="brand__mark" aria-hidden="true">♠</span>
+      <span class="brand__name">Casa do Baralho</span>
+    </a>
+
+    <!-- Gerado dinamicamente a partir de data/categorias.json -->
+    <nav class="nav" id="nav" aria-label="Navegação principal"></nav>
+
+    <div class="header__actions">
+      <div class="search">
+        <input type="search" id="searchInput" placeholder="Buscar baralho..." aria-label="Pesquisar baralhos">
+        <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </div>
+      <a href="#catalogo" class="btn btn--gold">Ver ofertas</a>
+    </div>
+
+    <button class="nav-toggle" id="navToggle" aria-label="Abrir menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="hero__glow" aria-hidden="true"></div>
+    <img class="hero__cards" src="images/hero-cartas.svg" alt="" aria-hidden="true">
+    <div class="hero__content">
+      <p class="eyebrow">Catálogo curado &middot; edições selecionadas</p>
+      <h1>Encontre o baralho perfeito para sua coleção ou diversão.</h1>
+      <p class="hero__subtitle">Os melhores baralhos reunidos em um único lugar.</p>
+      <a href="#catalogo" class="btn btn--gold btn--lg" id="exploreBtn">Explorar catálogo</a>
+    </div>
+  </section>
+
+  <!-- Todas as seções de categoria são criadas aqui pelo script.js -->
+  <div id="catalogo"></div>
+
+  <p class="empty-state" id="emptyState" hidden>Nenhum baralho encontrado para essa busca.</p>
+
+</main>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <div class="footer__col">
+      <a href="#top" class="brand brand--footer">
+        <span class="brand__mark" aria-hidden="true">♠</span>
+        <span class="brand__name">Casa do Baralho</span>
+      </a>
+      <p>Um catálogo dedicado a quem ama cartas: colecionadores, mágicos, jogadores e famílias. Selecionamos baralhos de qualidade para todos os gostos.</p>
+    </div>
+    <div class="footer__col">
+      <h3>Navegação</h3>
+      <!-- Gerado dinamicamente a partir de data/categorias.json -->
+      <nav id="footerNav" aria-label="Navegação do rodapé"></nav>
+    </div>
+    <div class="footer__col">
+      <h3>Redes sociais</h3>
+      <div class="social">
+        <a href="#" aria-label="Instagram">Instagram</a>
+        <a href="#" aria-label="Facebook">Facebook</a>
+        <a href="#" aria-label="TikTok">TikTok</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <p>&copy; <span id="year"></span> Casa do Baralho. Todos os direitos reservados.</p>
+    <p class="footer__notice">Não realizamos vendas diretamente. Todas as compras são feitas através dos marketplaces parceiros.</p>
+  </div>
+</footer>
+
+<button class="to-top" id="toTop" aria-label="Voltar ao topo">↑</button>
+
+<script src="js/script.js" defer></script>
+</body>
+</html>

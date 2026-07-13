@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#3D1650"/>
+      <stop offset="55%" stop-color="#1a0f24"/>
+      <stop offset="100%" stop-color="#0B070E"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F2D06B"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <g opacity="0.9">
+    <g transform="translate(560,620) rotate(-18)">
+      <rect x="0" y="0" width="220" height="310" rx="18" fill="#150C1D" stroke="url(#gold)" stroke-width="3"/>
+      <text x="110" y="180" font-family="Georgia,serif" font-size="90" fill="url(#gold)" text-anchor="middle">&#9824;</text>
+    </g>
+    <g transform="translate(700,600) rotate(-6)">
+      <rect x="0" y="0" width="220" height="310" rx="18" fill="#1B0F26" stroke="url(#gold)" stroke-width="3"/>
+      <text x="110" y="180" font-family="Georgia,serif" font-size="90" fill="url(#gold)" text-anchor="middle">&#9829;</text>
+    </g>
+    <g transform="translate(840,610) rotate(8)">
+      <rect x="0" y="0" width="220" height="310" rx="18" fill="#24101F" stroke="url(#gold)" stroke-width="3"/>
+      <text x="110" y="180" font-family="Georgia,serif" font-size="90" fill="url(#gold)" text-anchor="middle">&#9830;</text>
+    </g>
+    <g transform="translate(980,630) rotate(20)">
+      <rect x="0" y="0" width="220" height="310" rx="18" fill="#1A0F26" stroke="url(#gold)" stroke-width="3"/>
+      <text x="110" y="180" font-family="Georgia,serif" font-size="90" fill="url(#gold)" text-anchor="middle">&#9827;</text>
+    </g>
+  </g>
+</svg>

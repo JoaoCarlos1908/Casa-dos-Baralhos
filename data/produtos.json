@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "nome": "Bicycle Rider Standard",
+    "categoria": "classicos",
+    "descricao": "O clássico atemporal usado por mágicos e jogadores no mundo todo.",
+    "imagem": "images/BicycleRiderBack.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/7AbrfCJaJK"
+  },
+  {
+    "id": 2,
+    "nome": "Bee Jumbo Index",
+    "categoria": "classicos",
+    "descricao": "Resistência profissional inspirada nos grandes cassinos.",
+    "imagem": "images/Bee.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/9pccqNFpkT"
+  },
+  {
+    "id": 3,
+    "nome": "Tally-Ho Circle Back",
+    "categoria": "classicos",
+    "descricao": "Precisão, suavidade e acabamento premium para verdadeiros entusiastas.",
+    "imagem": "images/TallyHo.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/1ihx8RH"
+  },
+  {
+    "id": 4,
+    "nome": "Bicycle Hidden Cardistry",
+    "categoria": "cardistry",
+    "descricao": "Estilo contemporâneo para performances marcantes.",
+    "imagem": "images/BicycleHiddenCardistry.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/5fn6CXnUmU"
+  },
+  {
+    "id": 5,
+    "nome": "Tetra Lotus In Hand",
+    "categoria": "cardistry",
+    "descricao": "Criado para transformar cada movimento em um espetáculo.",
+    "imagem": "images/TetraLotusInHand.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/1dcJgHD"
+  },
+  {
+    "id": 6,
+    "nome": "Orbit Black Hole",
+    "categoria": "cardistry",
+    "descricao": "Performance de alto nível com um visual fora de órbita.",
+    "imagem": "images/OrbitBlackHole.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/21i2ZPX"
+  },
+  {
+    "id": 7,
+    "nome": "Theory11 Artisan Black",
+    "categoria": "luxo",
+    "descricao": "Elegância artesanal em cada detalhe.",
+    "imagem": "images/Theory11ArtisanBlack.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/24fALaG"
+  },
+  {
+    "id": 8,
+    "nome": "Theory11 Monarchs Azul",
+    "categoria": "luxo",
+    "descricao": "O ícone dos baralhos de luxo.",
+    "imagem": "images/Theory11MonarchsAzul.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/2xK7JDV"
+  },
+  {
+    "id": 9,
+    "nome": "Bicycle Metalluxe",
+    "categoria": "luxo",
+    "descricao": "O clássico Bicycle com acabamento metálico.",
+    "imagem": "images/BicycleMetalluxe.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/16bZ5DY"
+  },
+  {
+    "id": 10,
+    "nome": "Mcd Lamina De Alumínio",
+    "categoria": "minimalista",
+    "descricao": "Visual Sofisticado com Toque Metálico",
+    "imagem": "images/mcdaluminio.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/2K76TMK"
+  },
+  {
+    "id": 11,
+    "nome": "Jocker Cheng",
+    "categoria": "minimalista",
+    "descricao": "Baralho com design minimalista, acabamento premium e excelente qualidade.",
+    "imagem": "images/JockerCheng.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/1bevtb4"
+  },
+  {
+    "id": 12,
+    "nome": "Baixa Visão",
+    "categoria": "minimalista",
+    "descricao": "Naipes ampliados e alta legibilidade.",
+    "imagem": "images/baixavisao.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/12C1JTB"
+  },
+  {
+    "id": 13,
+    "nome": "Tottal eCom Dólar",
+    "categoria": "artisticos",
+    "descricao": "O baralho que simboliza riqueza e poder.",
+    "imagem": "images/econdolar.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/1PzMb5Z"
+  },
+  {
+    "id": 14,
+    "nome": "Bicycle Alice in Wonderland",
+    "categoria": "artisticos",
+    "descricao": "Edição temática com acabamento premium.",
+    "imagem": "images/bicycleAlice.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/9KgPBgTRHc"
+  },
+  {
+    "id": 15,
+    "nome": "Batman 85 Anos",
+    "categoria": "artisticos",
+    "descricao": "Uma edição especial que homenageia um legado lendário.",
+    "imagem": "images/batman85.jpg",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/AKYwOFySRN"
+  },
+  {
+    "id": 16,
+    "nome": "Red Dead Redemption 2",
+    "categoria": "artisticos",
+    "descricao": "Sinta o Espírito do Velho Oeste com este baralho.",
+    "imagem": "images/rdr2.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/3qLSj3elRV"
+  },
+  {
+    "id": 17,
+    "nome": "Invisivel Bicycle Azul",
+    "categoria": "magico",
+    "descricao": "Transforme qualquer carta em um verdadeiro espetáculo de ilusionismo.",
+    "imagem": "images/invisivelBicycle.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/1M6QZqV"
+  },
+  {
+    "id": 18,
+    "nome": "Force Especial",
+    "categoria": "magico",
+    "descricao": "Dois conjuntos de 26 cartas idênticas para efeitos de forçagem com máxima naturalidade.",
+    "imagem": "images/forceEspecial.png",
+    "marketplace": "Shopee",
+    "link": "https://s.shopee.com.br/4LHjM1zFqQ"
+  },
+  {
+    "id": 19,
+    "nome": "Baralho Marcado",
+    "categoria": "magico",
+    "descricao": "Marcação discreta para identificação rápida e precisa durante suas apresentações.",
+    "imagem": "images/marcado.png",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/2iTbKMi"
+  }
+]

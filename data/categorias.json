@@ -1,0 +1,44 @@
+[
+  {
+    "id": "classicos",
+    "nome": "Clássicos",
+    "subtitulo": "O design tradicional que atravessa gerações.",
+    "aviso": null,
+    "cor": null
+  },
+{
+    "id": "cardistry",
+    "nome": "Cardistry",
+    "subtitulo": "Projetados para floreios, manobras e performances impressionantes.",
+    "aviso": null,
+    "cor": null
+  },
+{
+    "id": "luxo",
+    "nome": "Versões de Luxo",
+    "subtitulo": "Elegância, exclusividade e acabamento refinado.",
+    "aviso": null,
+    "cor": null
+  },
+{
+    "id": "minimalista",
+    "nome": "Minimalistas",
+    "subtitulo": "Simplicidade moderna com estilo e sofisticação.",
+    "aviso": null,
+    "cor": null
+  },
+{
+    "id": "artisticos",
+    "nome": "Artísticos",
+    "subtitulo": "Cada carta é uma obra de arte para colecionar e jogar.",
+    "aviso": null,
+    "cor": null
+  },
+{
+    "id": "magico",
+    "nome": "Para Mágicos",
+    "subtitulo": "Projetado para impressionar e criar ilusões inesquecíveis.",
+    "aviso": null,
+    "cor": null
+  }
+]
