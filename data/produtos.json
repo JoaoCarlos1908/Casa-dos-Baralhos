@@ -169,5 +169,23 @@
     "imagem": "images/marcado.webp",
     "marketplace": "Mercado Livre",
     "link": "https://meli.la/2iTbKMi"
+  },
+  {
+    "id": 20,
+    "nome": "Stargazer 201",
+    "categoria": "bicycle",
+    "descricao": "Um universo de elegância em cada carta.",
+    "imagem": "images/Stargazer201.webp",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/16mFhz5"
+  },
+  {
+    "id": 21,
+    "nome": "The Wonderful Wizard Of Oz",
+    "categoria": "bicycle",
+    "descricao": "Entre em um mundo onde a magia encontra a elegância.",
+    "imagem": "images/wonderfulOZ.webp",
+    "marketplace": "Mercado Livre",
+    "link": "https://meli.la/2iH69A8"
   }
 ]

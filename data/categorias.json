@@ -21,6 +21,13 @@
     "cor": null
   },
 {
+    "id": "bicycle",
+    "nome": "Baralhos Bicycle",
+    "subtitulo": "Os clássicos e lançamentos da Bicycle em um só lugar.",
+    "aviso": null,
+    "cor": null
+  },
+{
     "id": "minimalista",
     "nome": "Minimalistas",
     "subtitulo": "Simplicidade moderna com estilo e sofisticação.",
